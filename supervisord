@@ -6,7 +6,7 @@
 #
 # Author: Brian Bouterse bmbouter@gmail.com
 #
-# chkconfig: 345 13 87
+# chkconfig: 345 80 80
 # description: supervisord is a client/server process control system. \
 # processname: supervisord
 # pidfile: /var/run/supervisord.pid
